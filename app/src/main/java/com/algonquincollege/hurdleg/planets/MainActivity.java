@@ -1,4 +1,4 @@
-package com.algonquincollege.hurdleg.doorsopenottawa;
+package com.algonquincollege.hurdleg.planets;
 
 import android.app.Activity;
 import android.os.AsyncTask;
